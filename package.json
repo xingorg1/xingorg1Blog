@@ -1,0 +1,30 @@
+{
+  "name": "xingorg1blog",
+  "version": "1.0.0",
+  "description": "My blog",
+  "main": "index.js",
+  "dependencies": {
+    "dumi": "^1.0.26"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "npx dumi dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xingorg1/xingorg1Blog.git"
+  },
+  "keywords": [
+    "blog",
+    "umijs",
+    "umi",
+    "dumi"
+  ],
+  "author": "xing.org1^",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xingorg1/xingorg1Blog/issues"
+  },
+  "homepage": "https://github.com/xingorg1/xingorg1Blog#readme"
+}
