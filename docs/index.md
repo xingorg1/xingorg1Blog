@@ -8,9 +8,9 @@ import React from 'react';
 
 export default () => <h2>First Demo</h2>;
 ```
-<!-- 
-问：怎么插入vue代码，貌似只能基于jsx
-```jsx
+
+<!-- 问：怎么插入vue代码，貌似只能基于jsx -->
+```vue
 <template>
   <div id="app">
     <HelloWorld msg="vue test"/>
@@ -27,7 +27,7 @@ export default () => <h2>First Demo</h2>;
     <router-view></router-view>
   </div>
 </template>
-``` -->
+```
 
 ```jsx
 /**

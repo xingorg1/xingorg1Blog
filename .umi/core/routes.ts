@@ -15,7 +15,7 @@ const routes = [
         "exact": true,
         "meta": {
           "filePath": "docs/index.md",
-          "updatedTime": 1590592354351,
+          "updatedTime": 1590592590000,
           "slugs": [
             {
               "depth": 1,

@@ -200,7 +200,7 @@ const routes = [{
     "exact": true,
     "meta": {
       "filePath": "docs/index.md",
-      "updatedTime": 1590592354351,
+      "updatedTime": 1590592590000,
       "slugs": [{
         "depth": 1,
         "value": "xingorg1blog",
@@ -529,7 +529,16 @@ const DumiDemo3 = react__WEBPACK_IMPORTED_MODULE_2___default.a.memo(function Dum
       lineNumber: 48,
       columnNumber: 17
     }
-  }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(_Users_guojufeng_Documents_GitHub_xingorg1Blog_node_modules_umijs_preset_dumi_lib_themes_default_builtins_Previewer_js__WEBPACK_IMPORTED_MODULE_6___default.a, Object(_Users_guojufeng_Documents_GitHub_xingorg1Blog_node_modules_umijs_babel_preset_umi_node_modules_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(_Users_guojufeng_Documents_GitHub_xingorg1Blog_node_modules_umijs_preset_dumi_lib_themes_default_builtins_SourceCode_js__WEBPACK_IMPORTED_MODULE_5___default.a, {
+    code: "<template>\n  <div id=\"app\">\n    <HelloWorld msg=\"vue test\"/>\n    <my-count />\n    <button @click=\"myDispatch\">点击触发dispatch</button>\n    <ul>\n      <li>\n        <router-link to=\"/home\">home</router-link>\n      </li>\n      <li>\n        <router-link to=\"/about\">about</router-link>\n      </li>\n    </ul>\n    <router-view></router-view>\n  </div>\n</template>\n",
+    lang: "vue",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 50,
+      columnNumber: 1
+    }
+  })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(_Users_guojufeng_Documents_GitHub_xingorg1Blog_node_modules_umijs_preset_dumi_lib_themes_default_builtins_Previewer_js__WEBPACK_IMPORTED_MODULE_6___default.a, Object(_Users_guojufeng_Documents_GitHub_xingorg1Blog_node_modules_umijs_babel_preset_umi_node_modules_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({
     source: {
       "jsx": "// 组件内容"
     }
@@ -541,14 +550,14 @@ const DumiDemo3 = react__WEBPACK_IMPORTED_MODULE_2___default.a.memo(function Dum
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 51,
+      lineNumber: 52,
       columnNumber: 1
     }
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(DumiDemo2, {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 55,
+      lineNumber: 56,
       columnNumber: 3
     }
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("div", {
@@ -556,7 +565,7 @@ const DumiDemo3 = react__WEBPACK_IMPORTED_MODULE_2___default.a.memo(function Dum
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 56,
+      lineNumber: 57,
       columnNumber: 17
     }
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(_Users_guojufeng_Documents_GitHub_xingorg1Blog_node_modules_umijs_preset_dumi_lib_themes_default_builtins_Previewer_js__WEBPACK_IMPORTED_MODULE_6___default.a, Object(_Users_guojufeng_Documents_GitHub_xingorg1Blog_node_modules_umijs_babel_preset_umi_node_modules_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({
@@ -571,14 +580,14 @@ const DumiDemo3 = react__WEBPACK_IMPORTED_MODULE_2___default.a.memo(function Dum
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 58,
+      lineNumber: 59,
       columnNumber: 1
     }
   }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(DumiDemo3, {
     __self: this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 62,
+      lineNumber: 63,
       columnNumber: 3
     }
   })));
